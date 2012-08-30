@@ -17,7 +17,7 @@
 # limitations under the License.
 #
 
-default[:perl][:release] = "5.10.1.1008/ActivePerl-5.10.1.1008-MSWin32-x86-294165.msi"
+default[:perl][:release] = "ActivePerl-5.16.0.1600-MSWin32-x86-295879.msi"
 default[:perl][:mirror] = "http://downloads.activestate.com"
 default[:perl][:dir] = "C:"
 
